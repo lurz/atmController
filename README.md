@@ -11,5 +11,5 @@ You can run the atm controller by directly follow the prompt instructions by
 Input Integers to select in the menu.  
 
 You can also use the test files provided in the repository, by using  
-    $ ./atm < test_*.txt  
+    $ ./atm < tests/test_*.txt  
 accordingly.
